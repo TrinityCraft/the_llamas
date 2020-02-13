@@ -1,0 +1,84 @@
+
+#logo {
+width: 100px;
+}
+.header {
+font-size: 50px;
+}
+#main_header {
+position: relative;
+left: 130px;
+bottom: 95px;
+color: white;
+
+}
+#head {
+position: realative;
+left: 100px;
+width: 1700px;
+height: 100px;
+background-color: black;
+margin: 10px;
+padding: 0px;
+}
+.body_text {
+text-align: center;
+position: relative;
+bottom: 70px;
+font-size: 26px;
+color: black;
+}
+#llamas {
+color: green;
+}
+#sidebar {
+position: realative;
+left: 100px;
+width: 200px;
+height: 2000px;
+background-color: black;
+margin: 10px;
+padding: 0px;
+}
+#login {
+position: relative;
+left: 1505px;
+bottom: 195px;
+max-width: 40px;
+}
+#reg {
+position: relative;
+left: 1400px;
+bottom: 200px;
+width: 55px;
+}
+
+
+#loginbox {
+height: 20px;
+background-color: grey;
+position: relative;
+left: 1500px;
+bottom: 10px;
+max-width: 40px;
+padding: 5px;
+border-radius: 25px;
+
+}
+
+#regbox {
+height: 20px;
+background-color: grey;
+position: relative;
+left: 1390px;
+bottom: 175px;
+width: 55px;
+padding: 5px;
+border-radius: 25px;
+}
+#login:hover {
+color: white;
+}
+#reg:hover {
+color: white;
+}
